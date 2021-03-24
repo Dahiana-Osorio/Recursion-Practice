@@ -1,0 +1,13 @@
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\obj\Debug\netcoreapp3.1\Recursion-practice.csprojAssemblyReference.cache
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\obj\Debug\netcoreapp3.1\Recursion-practice.AssemblyInfoInputs.cache
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\obj\Debug\netcoreapp3.1\Recursion-practice.AssemblyInfo.cs
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\obj\Debug\netcoreapp3.1\Recursion-practice.csproj.CoreCompileInputs.cache
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\bin\Debug\netcoreapp3.1\Recursion-practice.exe
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\bin\Debug\netcoreapp3.1\Recursion-practice.deps.json
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\bin\Debug\netcoreapp3.1\Recursion-practice.runtimeconfig.json
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\bin\Debug\netcoreapp3.1\Recursion-practice.runtimeconfig.dev.json
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\bin\Debug\netcoreapp3.1\Recursion-practice.dll
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\bin\Debug\netcoreapp3.1\Recursion-practice.pdb
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\obj\Debug\netcoreapp3.1\Recursion-practice.dll
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\obj\Debug\netcoreapp3.1\Recursion-practice.pdb
+C:\Users\leydi\source\repos\Recursion-practice\Recursion-practice\obj\Debug\netcoreapp3.1\Recursion-practice.genruntimeconfig.cache
